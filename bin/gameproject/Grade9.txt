@@ -1,0 +1,7 @@
+Grade9 Questions and Answers:
+Solve for y: \n y/10 = 	18/12
+5 1wrong
+20 2wrong
+15 3right
+10 4wrong
+x

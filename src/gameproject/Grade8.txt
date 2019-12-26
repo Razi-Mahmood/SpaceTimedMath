@@ -1,0 +1,7 @@
+Grade8 Questions and Answers:
+What is the greatest common factor of 5 and 10?
+2 1wrong
+10 2wrong
+5 3right
+none 4wrong
+x

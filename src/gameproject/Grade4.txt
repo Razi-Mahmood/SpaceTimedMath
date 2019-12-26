@@ -1,0 +1,7 @@
+Grade4 Questions and Answers:
+Which equation shows the commutative property of addition?
+5 + 0 = 5 1wrong
+(3 + 1) + 4 = 3 + (1 + 4) 2wrong
+0 + 6 = 6 3wrong
+9 + 5 = 5 + 9 4right
+x
